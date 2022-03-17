@@ -1,2 +1,2 @@
 # BayerRGB
-C++ utility to map RGGB Bayer CFAs into RGB without demosaicing
+C++ utility to map RGGB Bayer CFAs into RGB without demosaicing.
